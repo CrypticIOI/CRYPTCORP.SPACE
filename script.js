@@ -1,4 +1,3 @@
-// script.js
 document.addEventListener('DOMContentLoaded', () => {
     const ctaButton = document.getElementById('cta-button');
 
