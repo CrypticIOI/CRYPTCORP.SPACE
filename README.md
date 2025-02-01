@@ -1,2 +1,0 @@
-# CRYPTCORP.SPACE
-Website WIP
